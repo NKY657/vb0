@@ -7,5 +7,17 @@ h2 {
 }
 
 .txt {
-  text-indent: 4%
+  text-indent: 25px
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
 }
